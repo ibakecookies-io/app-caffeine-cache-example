@@ -2,7 +2,6 @@ package io.ibakecookies.cache.example.service;
 
 import io.ibakecookies.cache.example.model.Person;
 import io.ibakecookies.cache.example.repository.PersonRepository;
-import org.springframework.cache.CacheManager;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
